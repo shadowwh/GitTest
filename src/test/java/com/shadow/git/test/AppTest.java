@@ -31,6 +31,8 @@ public class AppTest extends TestCase {
 	public void testApp() {
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
+		 System.out.println( "Hello World!" );
+		 System.out.println( "Hello World!" );
 		assertTrue(true);
 	}
 }
